@@ -1,0 +1,64 @@
+Music I play on Spotify again and again.
+
+- Another Brick in the Wall / The Wall / Pink Floyd
+- Jazz Autograph / John Williams
+- Destiny / John Williams
+- I Just Called To Say I Love You / Stevie Wonder
+- Love Hurts / Nazareth
+- New Light / John Mayer
+- Another Day in Paradise / Phil Collins
+- City of Star / Ryan Gosling & Emma Stone
+- Knockin' On Heaven's Door / Bob Dylan
+- Livin' On A Prayer / Bon Jovi
+- Losing My Religion / R.E.M.
+- Should I Laugh Or Cry / ABBA
+- All Out of Love / Air Supply
+- bad guy / Billie Eilish & Justin Bieber
+- Therefor I am / Billie Eilish
+- 似水流年 / 梅艷芳
+- 擁抱 / 五月天
+- 她來聽我的演唱會 / 張學友
+- Without You / Air Supply
+- Making Love Out of Nothing at All / Air Supply
+- Won't You Be My Neighbor? / Fred Rogers
+- Get Here / Sam Smith
+- You Can't Hurry Love / Phil Collins
+- 回到過去 / 周杰倫
+- 半島鐵盒 / 周杰倫
+- Georgia on My Mind / Ray Charles
+- Another Day of Sun / La La Land Cast
+- Blowin' in the Wind / Bob Dylan
+- The Office Theme
+- Leaving Wallbrook / Han Zimmer
+- Imagine / John Lennon
+- 倩女幽魂 / 張國榮
+- Heaven / Avicii
+- 當愛已成往事 / 李宗盛 & 林憶蓮
+- California Dreamin' / The Mamas & The Papas
+- Don't Stop Me Now / Queen
+- 繁華攏是夢 / 盧廣仲
+- Bohemian Rhapsody / Queen
+- Moon River / Audrey Hepburn
+- Yellow / Coldplay
+- Desperado / Eagles
+- 曾經太年輕 / 藍又時
+- First Love / Hikaru Utada
+- Ｔwin Peaks Theme / Angelo Badalamenti
+- Dream / Fleetwood Mac
+- 而我知道 / 五月天
+- The Way You Look Tonight / Frank Sinatra
+- You Are The Sunshine Of My Life / Stevie Wonder
+- Tears in Heaven / Eric Clapton
+- Alone Again / Gilbert O'Sullivan
+- Everywhere / Fleetwood Mac
+- Sweet Dream / BØRN
+- Electric Love / BØRN
+- 相愛很難 / 張學友 & 梅艷芳
+- How Will I Know / Whitney Housten
+- 愛情的模樣 / 五月天 & 田馥甄
+- One Kiss / Dua Lipa
+- I Wanna Dance wiht Somebody / Whitney Housten
+- Against All Odd / Phil Collins
+- Don't Go Breaking My Heart / Elton John & Kiki Dee
+- Don't Speak / Carly Rae Jepsen
+- 

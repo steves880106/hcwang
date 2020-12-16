@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## HUNG-CHUN [STEVE] WANG
+I live in San Francisco and work as an Full Stack Software Engineer at *Rally Health*, a company that helps putting health care in the hands of individuals with a seamless experience, providing personalized, data-driven information and recommendations. I grew up in Taiwan and moved to United States 3 years ago. I have a Bachelor degree in Electrical Engineering at *National Taiwan University* and a Master degree in Biomedical Data Science at *University of Wisconsin, Madison*.
 
-You can use the [editor on GitHub](https://github.com/steves880106/hcwang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Email: [`steves880106@gmail.com`]  
+LinkedIn: \[[`link`](https://www.linkedin.com/in/hero1000)]  
+Twitter: \[[`steves880106`](https://twitter.com/steves880106)] 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/steves880106/hcwang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="https://raw.githubusercontent.com/steves880106/hcwang/gh-pages/assets/img/yoda.jpg"/>

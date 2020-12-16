@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/steves880106/hcwang/gh-pages/assets/img/x_logo.png">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NQTCJYB87B"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      gtag('config', 'G-NQTCJYB87B');
+    </script>
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description }}</p>
+
+        <a href="https://steves880106.github.io/hcwang/work"> Work Experience </a> <br>
+        <a href="https://steves880106.github.io/hcwang/corevalues"> Core Values </a> <br> 
+        <a href="https://steves880106.github.io/hcwang/articles"> Articles </a> <br>
+        <a href="https://steves880106.github.io/hcwang/projects"> Personal Projects </a> <br> <br>
+        
+        
+        <a href="https://steves880106.github.io/hcwang/bookshelf"> Bookshelf </a>  <br>
+        <a href="https://steves880106.github.io/hcwang/people"> People </a> <br>
+        <a href="https://steves880106.github.io/hcwang/videotapes"> Video Tapes </a> <br>
+        <a href="https://steves880106.github.io/hcwang/websites"> Websites </a> <br>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+      </footer>
+    </div>
+  </body>
+</html>

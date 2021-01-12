@@ -19,5 +19,6 @@ Some internet people who (mostly) write about a wide variety of topics and who I
 - [Barack Obama](https://www.obama.org/) ([twitter](https://twitter.com/BarackObama))
 - [Dan Wang](https://danwang.co/)([twitter](https://twitter.com/danwwang))
 - [Neil Gaiman](https://www.neilgaiman.com/)([twitter](https://twitter.com/neilhimself))
+- [Dan Barber](https://www.bluehillfarm.com/team/dan-barber)
 
 

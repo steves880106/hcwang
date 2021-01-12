@@ -10,9 +10,9 @@ This list includes videos or live performances I can watch for more than 5 times
 - How I Met Your Mother (2005)
 - Friends (1994)
 - Inside Bill’s Brain - Deciding Bill’s Brain (2019)
-- Rotten (2018)
 - Master of None (2015)
 - Modern Love (2019)
+- My Next Guest Needs No Introduction with David Letterman (2018)
 - Mister Rogers' Neighborhood (1968)
 - Neon Genesis Evangelion (1995)
 - Ozark (2017)
@@ -28,11 +28,12 @@ This list includes videos or live performances I can watch for more than 5 times
 - Westworld (2016)
 - 逃げるは恥だが役に立つ (2016)
 - One Punch Man 一拳超人(2015)
-- 深夜食堂
-- 孤獨的美食家
-- 白色巨塔 - 侯文詠版 (2003)
+- 深夜食堂 (2014)
+- 白色巨塔 - 侯文詠版 (2006)
 - 我們與惡的距離 (2019)
-
+- Tokyo Love Story 東京愛情故事 (1991)
+- Legal High (2012)
+- 白色巨塔 - 山崎豐子版 (2003)
 
 > Movies
 - 500 Days of Summer (2009)
@@ -60,6 +61,7 @@ This list includes videos or live performances I can watch for more than 5 times
 - Saving Private Ryan (1998)
 - Silence of the Lambs (1991) 
 - Shawshank Redemption (1994)
+- Soul (2020)
 - Sully (2016)
 - The Green Mile (1999)
 - The Terminal (2004)
@@ -89,6 +91,9 @@ This list includes videos or live performances I can watch for more than 5 times
 - 霸王別姬 (1993)
 - 縱橫四海 (1991)
 - 伊豆的舞女 (1973)
+- 重慶森林 (1994)
+- 春光乍洩 (1997)
+- 花樣年華 (2000)
 - となりのトトロ (龍貓) (1988)
 - 風の谷のナウシカ (1984)
 - 風立ちぬ (2013)
@@ -98,3 +103,7 @@ This list includes videos or live performances I can watch for more than 5 times
 > Live Performance
 - Sleep No More @ McKittrick Hotel, NYC
 - Chicago
+
+
+> Inspiring Talk
+- How Stories Last | Neil Gaiman

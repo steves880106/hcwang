@@ -2,6 +2,7 @@
 
 > Some websites on the internet I regularly revisit:
 - [The Long Now Foundation](https://longnow.org/)
+- [Omnivore Books](https://omnivorebooks.myshopify.com/)
 - [Bill & Melinda Foundation](https://www.gatesfoundation.org/)
 - [Stripe Press](https://press.stripe.com/)
 - [Hacker News](https://news.ycombinator.com/)

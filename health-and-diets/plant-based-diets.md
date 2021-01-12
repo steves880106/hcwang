@@ -6,7 +6,6 @@
 ### Action Items
 - Cook delicious vegan food. 
 - Explore extrodinary vegan/vegetarian restaurants to get new ideas of recipes.
-  - 禪食 / 精進料理
 - Try to apply new cooking skills to everyday dishes
 - Looking for professional vegan/vegetarian cookbooks.  
 - Take notes on the ingredient I've used.

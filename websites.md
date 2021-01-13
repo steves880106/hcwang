@@ -19,5 +19,6 @@
 - [X Company](https://x.company/)
 - [OpenAI](https://openai.com/)
 - [DeepMind](https://deepmind.com/)
-
+- [MIT Media Lab](https://www.media.mit.edu/)
+- [Broad Institute](https://www.broadinstitute.org/)
 

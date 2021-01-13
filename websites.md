@@ -16,4 +16,8 @@
 - [Netflix Tech Blog](https://netflixtechblog.com/)
 - [Neural Link](https://neuralink.com/)
 - [State of AI Report](https://www.stateof.ai/)
+- [X Company](https://x.company/)
+- [OpenAI](https://openai.com/)
+- [DeepMind](https://deepmind.com/)
+
 

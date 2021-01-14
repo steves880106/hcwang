@@ -104,12 +104,14 @@ This list includes videos or live performances I can watch for more than 5 times
 - Sleep No More @ McKittrick Hotel, NYC
 - Chicago
 
-Inspiring Talk
-- [How Stories Last](https://www.youtube.com/watch?v=Xn2n7N7Q2vw) | Neil Gaiman
-- [How Dan Barber Wants To Revolutionise Agriculture](https://www.youtube.com/watch?v=4j_0HO6UTgM) | Dan Barber
-- [The danger of a single story](https://www.youtube.com/watch?v=D9Ihs241zeg) | Chimamanda Ngozi Adichie
-- [The power of introverts](https://www.youtube.com/watch?v=c0KYU2j0TM4) | Susan Cain
-- [Why 30 is not the new 20](https://www.youtube.com/watch?v=vhhgI4tSMwc) | Meg Jay
-- [How to find the person who can help you get ahead at work](https://www.youtube.com/watch?v=gpE_W50OTUc) | Carla Harris
-- [Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) | John Doerr
-- [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+> Inspiring Talk
+- How Stories Last | Neil Gaiman
+- How Dan Barber Wants To Revolutionise Agriculture  | Dan Barber
+- The danger of a single story | Chimamanda Ngozi Adichie
+- The power of introverts | Susan Cain
+- Why 30 is not the new 20 | Meg Jay
+- How to find the person who can help you get ahead at work | Carla Harris
+- Why the secret to success is setting the right goals| John Doerr
+- Steve Jobs' 2005 Stanford Commencement Address | Steve Jobs
+
+

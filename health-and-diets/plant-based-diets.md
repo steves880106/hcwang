@@ -21,6 +21,9 @@
 - The Third Plate: Field Notes on the Future of Food (Dan Barber)
 - On Food and Cooking 食物與廚藝 (Harold McGee) 
 - Ottolenghi Flavor (Yotam Ottolenghi)
+- Salt, Fat, Acid, Heat: Mastering the Elements of Good Cookin (Samin Nosrat)
+
+
 
 
 > Reference

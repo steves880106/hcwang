@@ -35,3 +35,4 @@ Miscellaneous
 - Pay attention to details 魔鬼藏在細節中
 - Pareto principle: For many outcomes, roughly 80% of consequences come from 20% of the causes.
 - Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand.
+- 10X Is Easier Than 10 Percent

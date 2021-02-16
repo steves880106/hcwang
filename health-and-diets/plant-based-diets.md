@@ -6,11 +6,11 @@
 ### Action Items
 - Cook delicious vegan food. 
 - Explore extrodinary vegan/vegetarian restaurants to get new ideas of recipes.
-- Try to apply new cooking skills to everyday dishes
+- Try to apply new cooking skills to everyday dishes.
 - Looking for professional vegan/vegetarian cookbooks.  
 - Take notes on the ingredient I've used.
 - Buy ingredients from local suppliers/farms.
-- Learn how to build sustainable ecosystems of farming.
+- Support products which help build sustainable ecosystems of farming.
 - Take actions on social issues of modern food supply chains.   
 - Take supplements which are lack from plant-based diet
   - Vitamin B12 / Vitamin D / Long-chain omega-3s / Iodine / Iron / Calcium / Zinc
@@ -23,9 +23,6 @@
 - Ottolenghi Flavor (Yotam Ottolenghi)
 - Salt, Fat, Acid, Heat: Mastering the Elements of Good Cookin (Samin Nosrat)
 
-
-
-
-> Reference
-- [Nutrition Facts](https://nutritionfacts.org/)
-
+> Related Documentaries
+- What the Health (2017)
+- The Game Changers (2018)

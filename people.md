@@ -20,5 +20,5 @@ Some internet people who (mostly) write about a wide variety of topics and who I
 - [Dan Wang](https://danwang.co/)([twitter](https://twitter.com/danwwang))
 - [Neil Gaiman](https://www.neilgaiman.com/)([twitter](https://twitter.com/neilhimself))
 - [Dan Barber](https://www.bluehillfarm.com/team/dan-barber)
-
-
+- [Nat Friedman](https://twitter.com/natfriedman)
+- [Daniel Gross](https://dcgross.com/)([twitter](https://twitter.com/danielgross))

@@ -1,22 +1,13 @@
 ## Career Development (Private)
 
-> As an engineer, how can I get to the next level in my career?
+> How can I get to the next level in my career?
+- Prepare for interviews
+- Be in the right company and the right team
 - Model, document and share
-- Learn the value of networking
+- The value of networking
 - Tell story well
-- Join engineering communities to work and learn with brilliant minds
+- Join communities to work and learn with brilliant minds
 - Learn negotiation
 - Build reputations and trust
 - Choose meaningful problems to work on
 - Develop a portfolio of projects
-
-
-Things I can play with:
-- Tensorflow.js
-- PyTorch Serve
-- Tensorflow Serving
-- AlphaFold: Using AI for scientific discovery
-- GPT3
-- CNN, Yolo, SSD, GAN
-
-

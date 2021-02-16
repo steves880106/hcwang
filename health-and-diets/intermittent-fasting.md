@@ -17,9 +17,9 @@ Fasting has been a practice throughout human evolution. Ancient hunter-gatherers
 - Save time / money for cooking / buying meals.
 
 ### Action Items
-- Adopt 16:8 style, weekday fasting from 12 AM– 4 PM
-- Two meals a day (4PM, 10PM)
-- Allowed to drink tea and black coffee during fasting
+- Adopt 16:8 style, weekday fasting from 8 PM– 12 PM
+- Two meals a day (12 PM, 10PM)
+- Unsweeten tea and coffee are allowed during fasting
 
 
 > Reference

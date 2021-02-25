@@ -19,6 +19,7 @@ This list includes videos or live performances I can watch for more than 5 times
 - Ozark (2017)
 - Stranger Things (2016)
 - The Office
+- The Final Table (2018)
 - The Haunting of Hill House (2018)
 - The 70s’ show (1998)
 - The Queen’s Gambit (2020)

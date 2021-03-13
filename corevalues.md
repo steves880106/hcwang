@@ -3,7 +3,7 @@
 >  50 years later, when I look back upon what I’ve done, what are the things that really matter?
 
 Sustainability
-- Long-term thinking
+- Long-term thinking.
 - Sustainability outweighs unsustainable growth.
 - The more diverse a network, the greater its ability to respond to change. 
 - Subtle unsustainable decisions will eventually add up and crash the system.

@@ -47,6 +47,7 @@ This list includes videos or live performances I can watch for more than 5 times
 - Back to the future (1985)
 - Big Fish (2003)
 - Chicago (2002)
+- Coded Bias (2021)
 - David Attenborough: A Life on our planet (2020)
 - Don't F**k With Cats: Hunting an Internet Killer (2019)
 - Forrest Gump (1994)

@@ -10,7 +10,7 @@
 - Practice Interview
 
 ### 中期目標
-- Join other companies
+- Join companies which have potential to grow
 - Take leadership responsibility
 
 ### 長期目標

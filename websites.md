@@ -1,7 +1,6 @@
 # Website
 Some websites on the internet I regularly revisit:
 
-
 > Tech
 - [Netflix Tech Blog](https://netflixtechblog.com/)
 - [Stripe Tech Blog](https://stripe.com/blog/engineering)
@@ -13,12 +12,20 @@ Some websites on the internet I regularly revisit:
 - [OpenAI](https://openai.com/)
 - [DeepMind](https://deepmind.com/)
 
+> Investment
+- [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+- [Ark Investment](https://ark-invest.com/)
+
+> Religion
+- [The Long Now Foundation](https://longnow.org/)
+
 > News
-- [Hacker News](https://news.ycombinator.com/)
 - [報導者](https://www.twreporter.org/)
 
+> Science
+- [Broad Institute](https://www.broadinstitute.org/)
+
 > Others
-- [The Long Now Foundation](https://longnow.org/)
 - [Omnivore Books](https://omnivorebooks.myshopify.com/)
 - [Bill & Melinda Foundation](https://www.gatesfoundation.org/)
 - [Stripe Press](https://press.stripe.com/)
@@ -26,6 +33,3 @@ Some websites on the internet I regularly revisit:
 - [Turning Chaos](https://www.turningchaos.com/)
 - [Center for Humane Technology](https://www.humanetech.com/)
 - [What Matters](https://www.whatmatters.com/)
-- [一条 YIT](https://www.facebook.com/yitiaotv)
-- [Broad Institute](https://www.broadinstitute.org/)
-

@@ -1,7 +1,7 @@
 # Website
 Some websites on the internet I regularly revisit:
 
-> Tech
+> Technology
 - [Netflix Tech Blog](https://netflixtechblog.com/)
 - [Stripe Tech Blog](https://stripe.com/blog/engineering)
 - [Waypoint - The Official Waymo Blog](https://blog.waymo.com/)
@@ -11,12 +11,15 @@ Some websites on the internet I regularly revisit:
 - [X Company](https://x.company/)
 - [OpenAI](https://openai.com/)
 - [DeepMind](https://deepmind.com/)
+- [Google AI](https://ai.googleblog.com/)
+- [Nvidia Blog](https://blogs.nvidia.com/)
+- [Verily](https://verily.com/)
 
 > Investment
 - [Berkshire Hathaway](https://www.berkshirehathaway.com/)
 - [Ark Investment](https://ark-invest.com/)
 
-> Religion
+> Faiths
 - [The Long Now Foundation](https://longnow.org/)
 
 > News

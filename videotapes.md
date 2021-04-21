@@ -107,13 +107,13 @@ This list includes videos or live performances I can watch for more than 5 times
 - Chicago
 
 > Inspiring Talk
-- How Stories Last | Neil Gaiman
-- How Dan Barber Wants To Revolutionise Agriculture  | Dan Barber
-- The danger of a single story | Chimamanda Ngozi Adichie
-- The power of introverts | Susan Cain
-- Why 30 is not the new 20 | Meg Jay
-- How to find the person who can help you get ahead at work | Carla Harris
-- Why the secret to success is setting the right goals| John Doerr
-- Steve Jobs' 2005 Stanford Commencement Address | Steve Jobs
+- How Stories Last (Neil Gaiman)
+- How Dan Barber Wants To Revolutionise Agriculture (Dan Barber)
+- The danger of a single story (Chimamanda Ngozi Adichie)
+- The power of introverts (Susan Cain)
+- Why 30 is not the new 20 (Meg Jay)
+- How to find the person who can help you get ahead at work (Carla Harris)
+- Why the secret to success is setting the right goals (John Doerr)
+- Steve Jobs' 2005 Stanford Commencement Address (Steve Jobs)
 
 

@@ -1,36 +1,39 @@
 # Work Experience
 
-## Rally Health
-San Francisco, CA, United States
+## Skills
+**Language** Python, Scala,  Javascript, C++, R     
+**Web / API**  Play Framework, React, Redux, Webpack, HTML, SCSS, GraphQL, RESTful API        
+**Database**  MongoDB, PostgreSQL                     
+**Infra / Tool**  Kubernetes, Kafka, RabbitMQ, Splunk, Datadog, Vault, Jenkins, Docker        
+**Knowledge**  Agile/Scrum Methodology, CI/CD, Microservice, Service-Oriented Architecture, Full-Stack Software Development, Machine Learning, API design, Bioinformatics        
+
+## Rally Health 
+05.2018 ~ Current San Francisco, CA, United States
 
 **Software Engineer II**  
+Designed systems with stringent correctness, scalability and long-term maintainability to put healthcare in hand of millions of members.
+### Monitoring Initiative
+- Devised an end-to-end solution for mobile applications to log data to Splunk, gives developers the ability to correlate errors stemming from mobile to the actual server logs:
+  - Built a brand new microservice with Play Framework and Scala to provide APIs for posting error logs, customized encrypted logs, and configured them in the API gateway.
+  - Created a PoC with  React Native for posting customized secured logs & getting custom support code in United Healthcare Mobile App.
+- Formulated customized metrics, set up actionable alerts and crafted reusable system monitoring dashboards with Datadog.
 
-> Building solutions for asking questions through survey, quiz and chat, including projects such as:
-- Built a single page application (SPA) in React / Redux / SCSS using a toolchain including Npm / Webpack / Babel.
-- Created a common components library with  Block-Element-Modifier methodology.
-- Improved p95 of a front end application by React code splitting and Webpack tree shaking.
-- Redesigned the UI application and API discovery mechanism by reducing external traffic routing within SPAs and edge  services, and significantly reduced the p95 of SPAs by 40%. 
-- Built reusable system monitoring dashboards, set up actionable alerts, created customized metrics with Datadog.
-- Identified our gaps from Continuous Integration (CI)  to Continuous Delivery (CD), initiated cross-team cooperation to 1)  create missing functionalities in Jenkins pipeline library, 2) utilize Snyk for dependency and container scanning to ensure security, 3) enhance regression/performance test coverage, and 4) add post-production-deployment smoke tests and monitoring. Eventually brought out the first CD pipeline at Rally Health.
-- Automated the Avro schema generation, registration, versioning process for the events routed through the Kafka clusters.
-- Adopted HashiCorp Vault as our secret management solution, which allows for managing key/value pairs, encryption-as-a-service and fine-grained audit logging.
-- Integrated the net promoter score service with Salesforce and Qualtrics to collect customer insights.
-- Designed a fault-tolerant at-rest key rotation system to re-encrypt billions of records with PHI/PII in MongoDB.
-- Adopted Amplitude to track UI interaction events to enable further analysis such as funnel analysis and behavioral cohorting.
-- Designed the cutover strategy  from Mesos to Kubernetes for our microservices to make sure that communication among services is still available during/after the transition.
-- Set up RabbitMQ message queues to route events to/from other microservices.
-- Lead the effort to upgrade the mongodb driver so that our services are able to support higher versions of MongoDB.
+### Performance (p95)  Initiative
+- Lead the effort to upgrade the MongoDB driver and adopt WeePickle, an efficient Scala serialization system. The DB operation Read/Write Response Time (p95) of our services is improved by 27%.
+- Improved virtual page load time (p95) of a SPA by React code splitting and Webpack tree shaking by 80%.
+- Redesigned the UI application and API discovery mechanism by reducing external traffic routing within SPAs and edge  services, and significantly reduced the initial page load time (p95) of SPAs by 30%
 
-**Software Engineer Intern**. 
+### CI/CD Initiative
+- Pioneered in the journey from Continuous Integration (CI) to Continuous Delivery (CD) at Rally.  First identified our gaps from CI to CD and initiated cross-team cooperation to 1)  create missing functionalities in Jenkins pipeline library, 2) utilize Snyk for dependency and container scanning to ensure security, 3) enhance regression/performance test coverage, and 4) add post-production-deployment smoke tests and monitoring.
 
-> Created an end-to-end solution for mobile applications to log data to Splunk, gives developers ability to correlate errors stemming from mobile to the actual server logs associated with them, works include:
-- Built a microservice to provide apis for posting error logs, customized encrypted logs and configured them in the API gateway.
-- Created a library in React Native for posting customized secured logs & getting custom support code.
+### Security Initiative
+- Established a fault-tolerant at-rest key rotation system with RabbitMQ/ Actor System  to asynchronously re-encrypt billions of records with PHI/PII in MongoDB without sacrificing microservices performance and ensuring the data safety from 50 millions of members.
+
 
 ## Alternative Military Service    
 Taipei, Taiwan
 
-> Identified manual, repetitive tasks in different departments through interviews and built a software in Visual Basic for Applications (VBA) as an interface to automate the process of interacting with a legacy system to reduce wasted time and error rate.
+> Diagnosed manual, repetitive tasks in different departments through interviews and built software in Visual Basic for Applications (VBA) as an interface to automate the process of interacting with a legacy system to reduce wasted time and error rate.
 
 ## DNArails 
 Taipei, Taiwan 

@@ -12,4 +12,3 @@ Serious and meaningful relationship
 ## When I was single, did I love myself?
 - One strategy: Focus on creating a full life now, for myself, rather than finding a partner.
 
-Kammy Chan曉風 & Steve Wang鴻鈞

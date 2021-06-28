@@ -1,17 +1,17 @@
 ## Goal Setting (Private)
 
 ### 短期目標
-- Be a permanent resident in the United States
-- Take mentorship responsibility
-- Give an engineering talk
-- "Request for Comments" for new projects
-- **Choose meaningful problems to work on** and networking with people with the same passion
-- Model, document and share
-- Practice Interview
+- 找到符合興趣的工作並朝此方向耕耘 (Software Archetiect / Life Science / Healthcare)
+- 取得美國永久居留權
+- 學習投資理財
+- 體驗不同的經歷
+  - 旅遊 
+  - 領導經驗
 
 ### 中期目標
-- Join companies which have potential to grow
-- Take leadership responsibility
+
 
 ### 長期目標
-- 四十歲前回台灣創業並在台定居
+- 四十歲前回亞洲工作 (新加坡/台灣)
+- 陪伴父母
+

@@ -37,3 +37,7 @@
 > Poetry
 - 水調歌頭 / 江城子(乙卯正月二十日夜記夢) / 蝶戀花 [蘇東坡]
 - 月下獨酌 [李白]
+
+> Technology
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+- 

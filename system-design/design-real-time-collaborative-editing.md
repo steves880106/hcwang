@@ -6,7 +6,6 @@ Features
 - Access Control
 
 
-
 Message Driven
 
 1. Operation Transformatio
@@ -33,6 +32,7 @@ How to maintain Causality, especially for Deletion?
 How can undo/redo works?
 
 
+https://srijancse.medium.com/how-real-time-collaborative-editing-work-operational-transformation-ac4902d75682
 https://conclave-team.github.io/conclave-site/
 https://www.infoq.com/presentations/crdt-tachyon-collaborative-editing
 https://github.com/yjs/yjs
@@ -41,5 +41,7 @@ https://www.youtube.com/watch?v=yCcWpzY8dIA
 https://www.youtube.com/watch?v=84zqbXUQIHc
 https://www.youtube.com/watch?v=B5NULPSiOGw
 https://github.com/automerge/automerge
+https://medium.com/@amberovsky/crdt-conflict-free-replicated-data-types-b4bfc8459d26
+
 
 

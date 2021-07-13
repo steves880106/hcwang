@@ -38,5 +38,8 @@ https://www.infoq.com/presentations/crdt-tachyon-collaborative-editing
 https://github.com/yjs/yjs
 https://www.tag1consulting.com/blog/deep-dive-real-time-collaborative-editing-solutions-tagteamtalk-001-0
 https://www.youtube.com/watch?v=yCcWpzY8dIA
+https://www.youtube.com/watch?v=84zqbXUQIHc
+https://www.youtube.com/watch?v=B5NULPSiOGw
+https://github.com/automerge/automerge
 
 

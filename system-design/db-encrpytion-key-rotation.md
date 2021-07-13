@@ -44,6 +44,11 @@ Why not just write a migrator to re-encrypt all of the data?
 - Retry/Reconciliation mechanism for message resend
 
 
+
+Why not just make a replica of DB and do key rotation there?
+
+
+
 ## Issues
 1. Bad Data
 2. Distribute Retry
@@ -94,3 +99,5 @@ case class EncryptedSurveyResponse(
 
 https://cloud.google.com/kms/docs/key-rotation
 https://cloud.google.com/kms/docs/re-encrypt-data
+https://docs.mongodb.com/manual/core/security-encryption-at-rest/
+https://info.townsendsecurity.com/mongodb-encryption-key-management-definitive-guide

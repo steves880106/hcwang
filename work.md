@@ -37,6 +37,9 @@ Designed systems with stringent correctness, scalability and long-term maintaina
   - Automated the Avro schema generation process from Scala case classes
   - Implemented the producer-defined schema registration mechanism upon services startup to ensure compatibility while schema evolution
 
+### Login With Rall (OpenID Connect)
+  - TBD
+
 ## Alternative Military Service    
 Taipei, Taiwan
 
